@@ -162,7 +162,3 @@ frontend/
 │   ├── main.jsx
 ```
 
-### Contacto
-
-Si tienes preguntas o problemas, por favor contacta a [[tuemail@correo.com](mailto:tuemail@correo.com)].
-
